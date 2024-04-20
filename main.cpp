@@ -139,7 +139,7 @@ void knightsTour() {
                 }
             }
             visited[x][y] = count;
-//            cost[x][y] = 0;
+            cost[x][y] = 0;
 //            print(visited);
 //            cout << endl;
 //            print(cost);
